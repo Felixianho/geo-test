@@ -27,7 +27,7 @@
             type: 'jar']], credentialsId: '', groupId: 'QA',
              nexusUrl: '198.58.119.40:8081', 
              nexusVersion: 'nexus3', protocol: 'http',
-              repository: 'war-files-felixianho',version: '0.0.2' 
+              repository: 'war-files-felixianho',version: '0.0.2-SNAPSHOT' 
     }
 
  }
